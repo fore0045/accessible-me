@@ -111,3 +111,13 @@ form button {
 .site-footer a:focus {
   top: 0;
 }
+
+/* Adds styling to form */
+
+.contact-section input {
+  margin-top: 0.5em;
+}
+
+.contact-section textarea {
+  margin-top: 0.5em;
+}
